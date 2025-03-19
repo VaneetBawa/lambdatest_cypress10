@@ -1,7 +1,7 @@
 {
    "lambdatest_auth": {
-      "username": "vaneetb",
-      "access_key": "PQ2AhuxqqOWAfvzfJlvPaOqusS7YKqfwFJR6DoWY2vsA8CvTzC"
+      "LT_USER_NAME": "vaneetb",
+      "LT_ACCESS_KEY": "PQ2AhuxqqOWAfvzfJlvPaOqusS7YKqfwFJR6DoWY2vsA8CvTzC"
    },
    "browsers": [
       {
