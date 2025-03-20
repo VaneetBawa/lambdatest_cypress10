@@ -6,9 +6,9 @@
    "browsers": [
       {
          "browser": "Chrome",
-         "platform": "Windows 10",
+         "platform": "Windows 11",
          "versions": [
-            "latest-1"
+            "130"
          ]
       }
    ],
