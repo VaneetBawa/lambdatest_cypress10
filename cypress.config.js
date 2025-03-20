@@ -5,6 +5,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // Implement node event listeners here
     },
-    chromeWebSecurity: false
+    baseUrl: "https://bestbuy.com/",
+    chromeWebSecurity: false,
+    defaultCommandTimeout: 20000
   },
 });
