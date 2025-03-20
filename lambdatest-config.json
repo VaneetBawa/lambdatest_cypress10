@@ -19,7 +19,8 @@
       "useNodeVersion":"22",
       "specs": "cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
-      "network": false,
+      "network": true,
+      "network_http2": true,
       "network.http2": false,
       "headless": false,
       "npm_dependencies": {
