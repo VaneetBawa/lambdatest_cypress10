@@ -16,10 +16,11 @@
       "reporter_config_file": "base_reporter_config.json",
       "build_name": "Cypress 10",
       "parallels": 1,
+      "useNodeVersion" : "20"
       "specs": "cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
-      "network": true,
-      "network.http2": true,
+      "network": false,
+      "network.http2": false,
       "headless": false,
       "npm_dependencies": {
          "cypress": "10.0.0"
