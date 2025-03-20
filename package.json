@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "14.0.0",
-    "lambdatest-cypress-cli": "3.0.34",
+    "lambdatest-cypress-cli": "3.0.34"
   }
 }
