@@ -1,7 +1,7 @@
 {
    "lambdatest_auth": {
-      "LT_USER_NAME": "vaneetb",
-      "LT_ACCESS_KEY": "PQ2AhuxqqOWAfvzfJlvPaOqusS7YKqfwFJR6DoWY2vsA8CvTzC"
+      "username": "vaneetb",
+      "access_key": "PQ2AhuxqqOWAfvzfJlvPaOqusS7YKqfwFJR6DoWY2vsA8CvTzC"
    },
    "browsers": [
       {
@@ -16,7 +16,7 @@
       "reporter_config_file": "base_reporter_config.json",
       "build_name": "Cypress 10",
       "parallels": 1,
-      "useNodeVersion":"22"
+      "useNodeVersion":"22",
       "specs": "cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
       "network": false,
