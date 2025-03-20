@@ -29,7 +29,7 @@
       }
    },
    "tunnel_settings": {
-      "tunnel": false,
+      "tunnel": true,
       "tunnel_name": null
    }
 }
