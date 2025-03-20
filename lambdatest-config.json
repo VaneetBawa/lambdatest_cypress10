@@ -10,13 +10,6 @@
          "versions": [
             "latest-1"
          ]
-      },
-      {
-         "browser": "Firefox",
-         "platform": "Windows 10",
-         "versions": [
-            "latest-1"
-         ]
       }
    ],
    "run_settings": {
@@ -33,7 +26,7 @@
       }
    },
    "tunnel_settings": {
-      "tunnel": true,
+      "tunnel": false,
       "tunnel_name": null
    }
 }
