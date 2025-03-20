@@ -25,7 +25,8 @@
       "parallels": 1,
       "specs": "cypress/e2e/1-getting-started/todo.cy.js",
       "ignore_files": "",
-      "network": false,
+      "network": true,
+      "network.http2": true,
       "headless": false,
       "npm_dependencies": {
          "cypress": "10.0.0"
